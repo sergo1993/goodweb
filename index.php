@@ -13,9 +13,6 @@
     <link rel="stylesheet" type="text/css" href="lib/css/pagepiling.css"/>
     <link rel="stylesheet" type="text/css" href="css/style.css"/>
 </head>
-
-
-
 хуй
 <body>
 <div id="p_prldr">
