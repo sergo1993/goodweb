@@ -13,7 +13,7 @@
     <link rel="stylesheet" type="text/css" href="lib/css/pagepiling.css"/>
     <link rel="stylesheet" type="text/css" href="css/style.css"/>
 </head>
-<body>хуи
+<body>пидорасы 2
 
 <div id="p_prldr">
     <img class="img_prelauder" src="/img/basic/preloader.png" id="rotateImg" alt="preloader">
