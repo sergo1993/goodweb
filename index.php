@@ -14,6 +14,9 @@
     <link rel="stylesheet" type="text/css" href="css/style.css"/>
 </head>
 
+
+
+хуй
 <body>
 <div id="p_prldr">
     <img class="img_prelauder" src="/img/basic/preloader.png" id="rotateImg" alt="preloader">
