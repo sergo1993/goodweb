@@ -1,0 +1,147 @@
+/*index-section-1*/
+@import url("index-section-1/index-section-1_base.css");
+@import url("index-section-1/index-section-1_responsive.css");
+
+/*index-section-2*/
+@import url("index-section-2/index-section-2_base.css");
+@import url("index-section-2/index-section-2_responsive.css");
+
+/*index-section-3*/
+@import url("index-section-3/index-section-3_base.css");
+@import url("index-section-3/index-section-3_responsive.css");
+
+/*index-section-4*/
+@import url("index-section-4/index-section-4_base.css");
+@import url("index-section-4/index-section-4_responsive.css");
+
+/*index-section-5*/
+@import url("index-section-5/index-section-5_base.css");
+@import url("index-section-5/index-section-5_responsive.css");
+
+#menu {
+    right: -4px;
+
+    width: 50px;
+
+    top: 30vh;
+
+    background: #474747;
+
+    height: 265px;
+
+    border-radius: 15px 0 0 15px;
+
+    border: 1px solid #aaa;
+}
+
+#menu li {
+    display: block;
+    width: 40px;
+    height:40px;
+    position: relative;
+    opacity: 0.3;
+    margin-left: 9px;
+}
+
+
+#link_page1 {
+    background-image: url("/img/basic/sprite_index.png");
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    overflow: hidden;
+    width: 35px;
+    height: 35px;
+    position: absolute;
+    top: 5px;
+    right: 7px;
+}
+
+#link_page2 {
+    background-image: url("/img/basic/sprite_index.png");
+    background-repeat: no-repeat;
+    background-position: -37px -2px;
+    overflow: hidden;
+    width: 35px;
+    height: 35px;
+    position: absolute;
+    top: 6px;
+    right: 8px;
+}
+
+#link_page3 {
+    background-image: url("/img/basic/sprite_index.png");
+    background-repeat: no-repeat;
+    background-position: -78px -2px;
+    overflow: hidden;
+    width: 35px;
+    height: 35px;
+    position: absolute;
+    top: 6px;
+    right: 5px;
+}
+
+#link_page4 {
+    background-image: url("/img/basic/sprite_index.png");
+    background-repeat: no-repeat;
+    background-position: -124px -4px;
+    overflow: hidden;
+    width: 35px;
+    height: 35px;
+    position: absolute;
+    top: 6px;
+    right: 5px;
+}
+
+#link_page5 {
+    background-image: url("/img/basic/sprite_index.png");
+    background-repeat: no-repeat;
+    background-position: -167px -2px;
+    overflow: hidden;
+    width: 35px;
+    height: 35px;
+    position: absolute;
+    top: 6px;
+    right: 5px;
+}
+
+#menu li.active  {
+    opacity: 1;
+}
+
+#p_prldr{
+    position: fixed;
+    left: 0;
+    top: 0;
+    right:0;
+    bottom:0;
+    background: #323234;
+    z-index: 30;}
+
+.contpre small{font-size:25px;}
+
+.contpre{
+    width: 250px;
+    height: 100px;
+    position: absolute;
+    left: 50%;top: 48%;
+    margin-left:-125px;
+    margin-top:-75px;
+    color:#fff;
+    font-size:40px;
+    letter-spacing:-2px;
+    text-align:center;
+    line-height:35px;}
+
+#p_prldr .svg_anm {
+    position: absolute;
+    width: 41px;
+    height: 41px;
+    margin: -16px 0 0 -16px;}
+
+.img_prelauder {
+    border: 0;
+    display: block;
+    margin: 38vh auto;
+    width: 65px;
+}
+

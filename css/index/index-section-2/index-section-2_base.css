@@ -1,0 +1,30 @@
+#section2 {
+    background-image: url("/img/basic/background_img_section_2.jpg");
+    background-size: 100vw;
+    background-repeat: no-repeat;
+}
+
+.section-2_header {
+    color: #262626;
+    font-size: 40px;
+}
+
+#section2 header {
+    position: absolute;
+    top: 30px;
+    left: 14vw;
+}
+
+.section-1_text {
+    padding: 10px 80px 10px 60px;
+    line-height: 33px;
+    color: #262626;
+    text-align: justify;
+    top: 79px;
+    position: absolute;
+    font-size: 26px;
+}
+
+.text-indent {
+    padding-left: 50px;
+}

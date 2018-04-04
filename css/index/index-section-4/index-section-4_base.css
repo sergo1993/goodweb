@@ -1,0 +1,29 @@
+#section4 {
+    background-image: url("/img/basic/background_img_section_4.jpg");
+    background-size: 100vw;
+    background-repeat: no-repeat;
+    color: #2d2d2d;
+
+}
+
+#section4 section {
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+.section-4_header {
+    color: #2d2d2d;
+    font-size: 42px;
+    margin-top: 36px;
+}
+
+.section-4_number {
+    font-size: 165px;
+}
+
+.section-4_text {
+    font-size: 40px;
+    margin-top: -18px;
+    line-height: 40px;
+}
