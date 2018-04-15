@@ -8,21 +8,242 @@
 
 @media (min-width:992px) and (max-width:1199px) {
 
+    @media (min-height:600px) and (max-height:650px) {
+        #section4 {
+            background-size: 115vw;
+        }
+    }
+    @media (min-height:650px) and (max-height:700px) {
+        #section4 {
+            background-size: 125vw;
+        }
+    }
+    @media (min-height:700px) and (max-height:750px) {
+        #section4 {
+            background-size: 135vw;
+        }
+    }
+    @media (min-height:750px) and (max-height:800px) {
+        #section4 {
+            background-size: 145vw;
+        }
+    }
+    @media (min-height:800px) and (max-height:850px) {
+        #section4 {
+            background-size: 155vw;
+        }
+    }
+    @media (min-height:850px) and (max-height:900px) {
+        #section4 {
+            background-size: 155vw;
+        }
+    }
+    @media (min-height:900px) and (max-height:950px) {
+        #section4 {
+            background-size: 170vw;
+        }
+    }
+    @media (min-height:950px) and (max-height:1000px) {
+        #section4 {
+            background-size: 180vw;
+        }
+    }
+    @media (min-height:1000px) and (max-height:1050px) {
+        #section4 {
+            background-size: 190vw;
+        }
+    }
 }
 
 @media (min-width:1200px) and (max-width:1399px) {
-
+    @media (min-height:600px) and (max-height:650px) {
+        #section4 {
+            background-size: 115vw;
+        }
+    }
+    @media (min-height:650px) and (max-height:700px) {
+        #section4 {
+            background-size: 125vw;
+        }
+    }
+    @media (min-height:700px) and (max-height:750px) {
+        #section4 {
+            background-size: 135vw;
+        }
+    }
+    @media (min-height:750px) and (max-height:800px) {
+        #section4 {
+            background-size: 145vw;
+        }
+    }
+    @media (min-height:800px) and (max-height:850px) {
+        #section4 {
+            background-size: 155vw;
+        }
+    }
+    @media (min-height:850px) and (max-height:900px) {
+        #section4 {
+            background-size: 155vw;
+        }
+    }
+    @media (min-height:900px) and (max-height:950px) {
+        #section4 {
+            background-size: 170vw;
+        }
+    }
+    @media (min-height:950px) and (max-height:1000px) {
+        #section4 {
+            background-size: 180vw;
+        }
+    }
+    @media (min-height:1000px) and (max-height:1050px) {
+        #section4 {
+            background-size: 190vw;
+        }
+    }
 }
 
 @media (min-width:1400px) and (max-width:1599px) {
-
+    @media (min-height:600px) and (max-height:650px) {
+        #section4 {
+            background-size: 115vw;
+        }
+    }
+    @media (min-height:650px) and (max-height:700px) {
+        #section4 {
+            background-size: 125vw;
+        }
+    }
+    @media (min-height:700px) and (max-height:750px) {
+        #section4 {
+            background-size: 135vw;
+        }
+    }
+    @media (min-height:750px) and (max-height:800px) {
+        #section4 {
+            background-size: 145vw;
+        }
+    }
+    @media (min-height:800px) and (max-height:850px) {
+        #section4 {
+            background-size: 155vw;
+        }
+    }
+    @media (min-height:850px) and (max-height:900px) {
+        #section4 {
+            background-size: 155vw;
+        }
+    }
+    @media (min-height:900px) and (max-height:950px) {
+        #section4 {
+            background-size: 170vw;
+        }
+    }
+    @media (min-height:950px) and (max-height:1000px) {
+        #section4 {
+            background-size: 180vw;
+        }
+    }
+    @media (min-height:1000px) and (max-height:1050px) {
+        #section4 {
+            background-size: 190vw;
+        }
+    }
 }
 
 @media (min-width:1600px) and (max-width:1799px) {
-
+    @media (min-height:600px) and (max-height:650px) {
+        #section4 {
+            background-size: 115vw;
+        }
+    }
+    @media (min-height:650px) and (max-height:700px) {
+        #section4 {
+            background-size: 125vw;
+        }
+    }
+    @media (min-height:700px) and (max-height:750px) {
+        #section4 {
+            background-size: 135vw;
+        }
+    }
+    @media (min-height:750px) and (max-height:800px) {
+        #section4 {
+            background-size: 145vw;
+        }
+    }
+    @media (min-height:800px) and (max-height:850px) {
+        #section4 {
+            background-size: 155vw;
+        }
+    }
+    @media (min-height:850px) and (max-height:900px) {
+        #section4 {
+            background-size: 155vw;
+        }
+    }
+    @media (min-height:900px) and (max-height:950px) {
+        #section4 {
+            background-size: 170vw;
+        }
+    }
+    @media (min-height:950px) and (max-height:1000px) {
+        #section4 {
+            background-size: 180vw;
+        }
+    }
+    @media (min-height:1000px) and (max-height:1050px) {
+        #section4 {
+            background-size: 190vw;
+        }
+    }
 }
 
 @media (min-width:1800px) and (max-width:2000px) {
-
+    @media (min-height:600px) and (max-height:650px) {
+        #section4 {
+            background-size: 115vw;
+        }
+    }
+    @media (min-height:650px) and (max-height:700px) {
+        #section4 {
+            background-size: 125vw;
+        }
+    }
+    @media (min-height:700px) and (max-height:750px) {
+        #section4 {
+            background-size: 135vw;
+        }
+    }
+    @media (min-height:750px) and (max-height:800px) {
+        #section4 {
+            background-size: 145vw;
+        }
+    }
+    @media (min-height:800px) and (max-height:850px) {
+        #section4 {
+            background-size: 155vw;
+        }
+    }
+    @media (min-height:850px) and (max-height:900px) {
+        #section4 {
+            background-size: 155vw;
+        }
+    }
+    @media (min-height:900px) and (max-height:950px) {
+        #section4 {
+            background-size: 170vw;
+        }
+    }
+    @media (min-height:950px) and (max-height:1000px) {
+        #section4 {
+            background-size: 180vw;
+        }
+    }
+    @media (min-height:1000px) and (max-height:1050px) {
+        #section4 {
+            background-size: 190vw;
+        }
+    }
 }
 

@@ -155,16 +155,16 @@
         <section>
             <h2 class="section-4_header">НЕМНОГО СТАТИСТИКИ</h2>
             <div class="col-lg-12">
-                <div class="col-lg-6">
+                <div class="col-lg-6 col-md-6">
                     <p class="section-4_number">17</p>
                     <p class="section-4_text">Сайтов сделано</p>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 col-md-6">
                     <p class="section-4_number">9</p>
                     <p class="section-4_text">Учавствовали в<br>разработке</p>
                 </div>
             </div>
-            <div class="col-lg-12">
+            <div class="col-lg-12 col-md-12">
                 <div class="section-4_item-partner"></div>
                 <div class="section-4_item-partner"></div>
                 <div class="section-4_item-partner"></div>
