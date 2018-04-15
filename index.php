@@ -114,37 +114,37 @@
         <section>
             <h2 class="section3_header">ПОЧЕМУ СТОИТ ВЫБРАТЬ ИМЕННО НАС</h2>
             <div class="col-lg-12">
-                <div class="section-3_item-advantage col-lg-3">
+                <div class="section-3_item-advantage col-lg-3 col-md-3">
                     <img src="/img/basic/individual_approach.png" alt="individual_approach">
                     <p>Индивидуальный<br>подход</p>
                 </div>
-                <div class="section-3_item-advantage col-lg-3">
+                <div class="section-3_item-advantage col-lg-3 col-md-3">
                     <img src="/img/basic/favorable_price.png" alt="">
                     <p>Выгодные<br>цены</p>
                 </div>
-                <div class="section-3_item-advantage col-lg-3">
+                <div class="section-3_item-advantage col-lg-3 col-md-3">
                     <img src="/img/basic/quality_work.png" alt="">
                     <p>Качество<br>работы</p>
                 </div>
-                <div class="section-3_item-advantage col-lg-3">
+                <div class="section-3_item-advantage col-lg-3 col-md-3">
                     <img src="/img/basic/demanded_market.png" alt="">
                     <p>Востребованы<br>на рынке</p>
                 </div>
             </div>
             <div class="col-lg-12">
-                <div class="section-3_item-advantage col-lg-3">
+                <div class="section-3_item-advantage col-lg-3 col-md-3">
                     <img src="/img/basic/long_experience.png" alt="">
                     <p>Многолетний<br>опыт</p>
                 </div>
-                <div class="section-3_item-advantage col-lg-3">
+                <div class="section-3_item-advantage col-lg-3 col-md-3">
                     <img src="/img/basic/reliable_cooperation.png" alt="">
                     <p>Надежное<br>сотрудничество</p>
                 </div>
-                <div class="section-3_item-advantage col-lg-3">
+                <div class="section-3_item-advantage col-lg-3 col-md-3">
                     <img src="/img/basic/constantly_develop.png" alt="">
                     <p>Постоянно<br>развиваемся</p>
                 </div>
-                <div class="section-3_item-advantage col-lg-3">
+                <div class="section-3_item-advantage col-lg-3 col-md-3">
                     <img src="/img/basic/love_job.png" alt="">
                     <p>Любим свою<br>работу</p>
                 </div>
