@@ -8,21 +8,342 @@
 
 @media (min-width:992px) and (max-width:1199px) {
 
+    .section-2_header {
+        font-size: 30px;
+        margin-top: 16px;
+        margin-bottom: 17px;
+    }
+    .section-1_text {
+        line-height: 25px;
+        font-size: 22px;
+        margin: 0 auto;
+        width: 900px;
+    }
+
+    @media (min-height:600px) and (max-height:650px) {
+
+        #section2 {
+            background-size: 115vw;
+        }
+    }
+    @media (min-height:650px) and (max-height:700px) {
+
+        #section2 {
+            background-size: 125vw;
+        }
+    }
+    @media (min-height:700px) and (max-height:750px) {
+
+        #section2 {
+            background-size: 135vw;
+        }
+    }
+    @media (min-height:750px) and (max-height:800px) {
+
+        #section2 {
+            background-size: 145vw;
+        }
+    }
+    @media (min-height:800px) and (max-height:850px) {
+
+        #section2 {
+            background-size: 155vw;
+        }
+    }
+    @media (min-height:850px) and (max-height:900px) {
+
+        #section2 {
+            background-size: 155vw;
+        }
+    }
+    @media (min-height:900px) and (max-height:950px) {
+
+        #section2 {
+            background-size: 170vw;
+        }
+    }
+    @media (min-height:950px) and (max-height:1000px) {
+
+        #section2 {
+            background-size: 180vw;
+        }
+    }
+    @media (min-height:1000px) and (max-height:1050px) {
+        #section2 {
+            background-size: 190vw;
+        }
+    }
 }
 
 @media (min-width:1200px) and (max-width:1399px) {
+    .section-2_header {
+        font-size: 32px;
+        margin-top: 16px;
+        margin-bottom: 17px;
+    }
+    .section-1_text {
+        line-height: 25px;
+        font-size: 24px;
+        margin: 0 auto;
+        width: 1013px;
+    }
 
+    @media (min-height:600px) and (max-height:650px) {
+
+        #section2 {
+            background-size: 115vw;
+        }
+    }
+    @media (min-height:650px) and (max-height:700px) {
+
+        #section2 {
+            background-size: 125vw;
+        }
+    }
+    @media (min-height:700px) and (max-height:750px) {
+
+        #section2 {
+            background-size: 135vw;
+        }
+    }
+    @media (min-height:750px) and (max-height:800px) {
+
+        #section2 {
+            background-size: 145vw;
+        }
+    }
+    @media (min-height:800px) and (max-height:850px) {
+
+        #section2 {
+            background-size: 155vw;
+        }
+    }
+    @media (min-height:850px) and (max-height:900px) {
+
+        #section2 {
+            background-size: 155vw;
+        }
+    }
+    @media (min-height:900px) and (max-height:950px) {
+
+        #section2 {
+            background-size: 170vw;
+        }
+    }
+    @media (min-height:950px) and (max-height:1000px) {
+
+        #section2 {
+            background-size: 180vw;
+        }
+    }
+    @media (min-height:1000px) and (max-height:1050px) {
+        #section2 {
+            background-size: 190vw;
+        }
+    }
 }
 
 @media (min-width:1400px) and (max-width:1599px) {
+    .section-2_header {
+        font-size: 37px;
+        margin-top: 16px;
+        margin-bottom: 17px;
+    }
+    .section-1_text {
+        line-height: 28px;
+        font-size: 26px;
+        margin: 0 auto;
+        width: 1182px;
+    }
 
+    @media (min-height:600px) and (max-height:650px) {
+
+        #section2 {
+            background-size: 115vw;
+        }
+    }
+    @media (min-height:650px) and (max-height:700px) {
+
+        #section2 {
+            background-size: 125vw;
+        }
+    }
+    @media (min-height:700px) and (max-height:750px) {
+
+        #section2 {
+            background-size: 135vw;
+        }
+    }
+    @media (min-height:750px) and (max-height:800px) {
+
+        #section2 {
+            background-size: 145vw;
+        }
+    }
+    @media (min-height:800px) and (max-height:850px) {
+
+        #section2 {
+            background-size: 155vw;
+        }
+    }
+    @media (min-height:850px) and (max-height:900px) {
+
+        #section2 {
+            background-size: 155vw;
+        }
+    }
+    @media (min-height:900px) and (max-height:950px) {
+
+        #section2 {
+            background-size: 170vw;
+        }
+    }
+    @media (min-height:950px) and (max-height:1000px) {
+
+        #section2 {
+            background-size: 180vw;
+        }
+    }
+    @media (min-height:1000px) and (max-height:1050px) {
+        #section2 {
+            background-size: 190vw;
+        }
+    }
 }
 
 @media (min-width:1600px) and (max-width:1799px) {
+    .section-2_header {
+        font-size: 37px;
+        margin-top: 16px;
+        margin-bottom: 17px;
+    }
+    .section-1_text {
+        line-height: 33px;
+        font-size: 28px;
+        margin: 0 auto;
+        width: 1304px;
+    }
 
+    @media (min-height:600px) and (max-height:650px) {
+
+        #section2 {
+            background-size: 115vw;
+        }
+    }
+    @media (min-height:650px) and (max-height:700px) {
+
+        #section2 {
+            background-size: 125vw;
+        }
+    }
+    @media (min-height:700px) and (max-height:750px) {
+
+        #section2 {
+            background-size: 135vw;
+        }
+    }
+    @media (min-height:750px) and (max-height:800px) {
+
+        #section2 {
+            background-size: 145vw;
+        }
+    }
+    @media (min-height:800px) and (max-height:850px) {
+
+        #section2 {
+            background-size: 155vw;
+        }
+    }
+    @media (min-height:850px) and (max-height:900px) {
+
+        #section2 {
+            background-size: 155vw;
+        }
+    }
+    @media (min-height:900px) and (max-height:950px) {
+
+        #section2 {
+            background-size: 170vw;
+        }
+    }
+    @media (min-height:950px) and (max-height:1000px) {
+
+        #section2 {
+            background-size: 180vw;
+        }
+    }
+    @media (min-height:1000px) and (max-height:1050px) {
+        #section2 {
+            background-size: 190vw;
+        }
+    }
 }
 
 @media (min-width:1800px) and (max-width:2000px) {
+    .section-2_header {
+        font-size: 37px;
+        margin-top: 16px;
+        margin-bottom: 17px;
+    }
+    .section-1_text {
+        line-height: 33px;
+        font-size: 28px;
+        margin: 0 auto;
+        width: 1304px;
+    }
 
+    @media (min-height:600px) and (max-height:650px) {
+
+        #section2 {
+            background-size: 115vw;
+        }
+    }
+    @media (min-height:650px) and (max-height:700px) {
+
+        #section2 {
+            background-size: 125vw;
+        }
+    }
+    @media (min-height:700px) and (max-height:750px) {
+
+        #section2 {
+            background-size: 135vw;
+        }
+    }
+    @media (min-height:750px) and (max-height:800px) {
+
+        #section2 {
+            background-size: 145vw;
+        }
+    }
+    @media (min-height:800px) and (max-height:850px) {
+
+        #section2 {
+            background-size: 155vw;
+        }
+    }
+    @media (min-height:850px) and (max-height:900px) {
+
+        #section2 {
+            background-size: 155vw;
+        }
+    }
+    @media (min-height:900px) and (max-height:950px) {
+
+        #section2 {
+            background-size: 170vw;
+        }
+    }
+    @media (min-height:950px) and (max-height:1000px) {
+
+        #section2 {
+            background-size: 180vw;
+        }
+    }
+    @media (min-height:1000px) and (max-height:1050px) {
+        #section2 {
+            background-size: 190vw;
+        }
+    }
 }
 

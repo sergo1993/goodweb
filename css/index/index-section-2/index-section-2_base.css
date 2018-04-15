@@ -10,18 +10,16 @@
 }
 
 #section2 header {
-    position: absolute;
-    top: 30px;
-    left: 14vw;
+
 }
 
 .section-1_text {
-    padding: 10px 80px 10px 60px;
+
     line-height: 33px;
     color: #262626;
     text-align: justify;
-    top: 79px;
-    position: absolute;
+
+
     font-size: 26px;
 }
 
