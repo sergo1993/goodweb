@@ -28,7 +28,7 @@
 
 <div id="pagepiling">
     <div class="section" id="section1">
-        <nav>
+        <nav class="i-section-1_nav">
             <ul>
                 <li>
                     <a class="section-1_link-website-development" href="/">

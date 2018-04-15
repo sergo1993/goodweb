@@ -1,28 +1,763 @@
+/* */
+
 @media (min-width:1px) and (max-width:768px ) {
 
 }
 
 @media (min-width:768px) and (max-width:992px) {
-
+    .i-section-1_nav{
+        left: 23vw;
+    }
 }
 
 @media (min-width:992px) and (max-width:1199px) {
+    .i-section-1_nav ul{
+        margin: 0 auto;
+        width: 700px;
+        position: relative;
+    }
 
+    .logo img {
+        width: 175px;
+    }
+
+    nav img {
+        width: 75px;
+    }
+
+    .section-1_line-website-development {
+        left: 150px;
+        top: 97px;
+    }
+
+    .section-1_line-about {
+        left: 362px;
+        top: 134px;
+    }
+
+    .section-1_line-promotion-sites {
+        left: 383px;
+        top: 178px;
+    }
+
+    .section-1_line-publication {
+        left: 434px;
+        top: 304px;
+    }
+
+    .section-1_line-contact {
+        left: 245px;
+        top: 302px;
+    }
+
+    .section-1_line-portfolio {
+        left: 161px;
+        top: 291px;
+    }
+
+    .section-1_link-website-development {
+        left: 64px;
+        top: 20px;
+    }
+
+    .section-1_link-about {
+        left: 396px;
+        top: 12px;
+    }
+
+    .section-1_link-promotion-sites {
+        left: 556px;
+        top: 95px;
+    }
+
+    .section-1_link-publication {
+        left: 490px;
+        top: 382px;
+    }
+
+    .section-1_link-contact {
+        left: 182px;
+        top: 387px;
+    }
+
+    .section-1_link-portfolio {
+        left: 71px;
+        top: 260px;
+    }
+
+    @media (min-height:600px) and (max-height:650px) {
+        .i-section-1_nav{
+            bottom: 10%;
+        }
+        #section1 {
+            background-size: 115vw;
+        }
+    }
+    @media (min-height:650px) and (max-height:700px) {
+        .i-section-1_nav{
+            bottom: 17%;
+        }
+        #section1 {
+            background-size: 125vw;
+        }
+    }
+    @media (min-height:700px) and (max-height:750px) {
+        .i-section-1_nav{
+            bottom: 19%;
+        }
+        #section1 {
+            background-size: 135vw;
+        }
+    }
+    @media (min-height:750px) and (max-height:800px) {
+        .i-section-1_nav{
+            bottom: 22%;
+        }
+        #section1 {
+            background-size: 145vw;
+        }
+    }
+    @media (min-height:800px) and (max-height:850px) {
+        .i-section-1_nav{
+            bottom: 22%;
+        }
+        #section1 {
+            background-size: 155vw;
+        }
+    }
+    @media (min-height:850px) and (max-height:900px) {
+        .i-section-1_nav{
+            bottom: 23%;
+        }
+        #section1 {
+            background-size: 155vw;
+        }
+    }
+    @media (min-height:900px) and (max-height:950px) {
+        .i-section-1_nav{
+            bottom: 25%;
+        }
+        #section1 {
+            background-size: 170vw;
+        }
+    }
+    @media (min-height:950px) and (max-height:1000px) {
+        .i-section-1_nav{
+            bottom: 27%;
+        }
+        #section1 {
+            background-size: 180vw;
+        }
+    }
+    @media (min-height:1000px) and (max-height:1050px) {
+        .i-section-1_nav{
+            bottom: 30%;
+        }
+        #section1 {
+            background-size: 190vw;
+        }
+    }
 }
 
+/* 1280*600 1280*720  1280*768 1360*768 */
 @media (min-width:1200px) and (max-width:1399px) {
+    .i-section-1_nav ul{
+        margin: 0 auto;
+        width: 700px;
+        position: relative;
+    }
 
+    .logo img {
+        width: 195px;
+    }
+
+    nav img {
+        width: 85px;
+    }
+
+    .section-1_line-website-development {
+        left: 158px;
+        top: 102px;
+    }
+
+    .section-1_line-about {
+        left: 366px;
+        top: 129px;
+    }
+
+    .section-1_line-promotion-sites {
+        left: 401px;
+        top: 178px;
+    }
+
+    .section-1_line-publication {
+        left: 421px;
+        top: 313px;
+    }
+
+    .section-1_line-contact {
+        left: 245px;
+        top: 316px;
+    }
+
+    .section-1_line-portfolio {
+        left: 131px;
+        top: 291px;
+    }
+
+    .section-1_link-website-development {
+        left: 55px;
+        top: 16px;
+    }
+
+    .section-1_link-about {
+        left: 396px;
+        top: -6px;
+    }
+
+    .section-1_link-promotion-sites {
+        left: 588px;
+        top: 95px;
+    }
+
+    .section-1_link-publication {
+        left: 481px;
+        top: 390px;
+    }
+
+    .section-1_link-contact {
+        left: 172px;
+        top: 400px;
+    }
+
+    .section-1_link-portfolio {
+        left: 26px;
+        top: 260px;
+    }
+
+    @media (min-height:600px) and (max-height:650px) {
+        .i-section-1_nav{
+            bottom: 10%;
+        }
+        #section1 {
+            background-size: 115vw;
+        }
+    }
+    @media (min-height:650px) and (max-height:700px) {
+        .i-section-1_nav{
+            bottom: 17%;
+        }
+        #section1 {
+            background-size: 125vw;
+        }
+    }
+    @media (min-height:700px) and (max-height:750px) {
+        .i-section-1_nav{
+            bottom: 19%;
+        }
+        #section1 {
+            background-size: 135vw;
+        }
+    }
+    @media (min-height:750px) and (max-height:800px) {
+        .i-section-1_nav{
+            bottom: 22%;
+        }
+        #section1 {
+            background-size: 145vw;
+        }
+    }
+    @media (min-height:800px) and (max-height:850px) {
+        .i-section-1_nav{
+            bottom: 22%;
+        }
+        #section1 {
+            background-size: 155vw;
+        }
+    }
+    @media (min-height:850px) and (max-height:900px) {
+        .i-section-1_nav{
+            bottom: 23%;
+        }
+        #section1 {
+            background-size: 155vw;
+        }
+    }
+    @media (min-height:900px) and (max-height:950px) {
+        .i-section-1_nav{
+            bottom: 25%;
+        }
+        #section1 {
+            background-size: 170vw;
+        }
+    }
+    @media (min-height:950px) and (max-height:1000px) {
+        .i-section-1_nav{
+            bottom: 27%;
+        }
+        #section1 {
+            background-size: 180vw;
+        }
+    }
+    @media (min-height:1000px) and (max-height:1050px) {
+        .i-section-1_nav{
+            bottom: 30%;
+        }
+        #section1 {
+            background-size: 190vw;
+        }
+    }
 }
 
-@media (min-width:1400px) and (max-width:1599px) {
 
+/* 1440*900 1440*960 1400*1050 */
+@media (min-width:1400px) and (max-width:1599px) {
+    .i-section-1_nav ul{
+        margin: 0 auto;
+        width: 700px;
+        position: relative;
+    }
+
+    .logo img {
+        width: 215px;
+    }
+
+    nav img {
+        width: 100px;
+    }
+
+    .section-1_line-website-development {
+        left: 158px;
+        top: 102px;
+    }
+
+    .section-1_line-about {
+        left: 366px;
+        top: 129px;
+    }
+
+    .section-1_line-promotion-sites {
+        left: 413px;
+        top: 178px;
+    }
+
+    .section-1_line-publication {
+        left: 421px;
+        top: 332px;
+    }
+
+    .section-1_line-contact {
+        left: 221px;
+        top: 333px;
+    }
+
+    .section-1_line-portfolio {
+        left: 131px;
+        top: 291px;
+    }
+
+    .section-1_link-website-development {
+        left: 38px;
+        top: 2px;
+    }
+
+    .section-1_link-about {
+        left: 396px;
+        top: -26px;
+    }
+
+    .section-1_link-promotion-sites {
+        left: 600px;
+        top: 95px;
+    }
+
+    .section-1_link-publication {
+        left: 481px;
+        top: 407px;
+    }
+
+    .section-1_link-contact {
+        left: 136px;
+        top: 417px;
+    }
+
+    .section-1_link-portfolio {
+        left: 8px;
+        top: 260px;
+    }
+
+    @media (min-height:600px) and (max-height:650px) {
+        .i-section-1_nav{
+            bottom: 10%;
+        }
+        #section1 {
+            background-size: 115vw;
+        }
+    }
+    @media (min-height:650px) and (max-height:700px) {
+        .i-section-1_nav{
+            bottom: 17%;
+        }
+        #section1 {
+            background-size: 125vw;
+        }
+    }
+    @media (min-height:700px) and (max-height:750px) {
+        .i-section-1_nav{
+            bottom: 19%;
+        }
+        #section1 {
+            background-size: 135vw;
+        }
+    }
+    @media (min-height:750px) and (max-height:800px) {
+        .i-section-1_nav{
+            bottom: 22%;
+        }
+        #section1 {
+            background-size: 145vw;
+        }
+    }
+    @media (min-height:800px) and (max-height:850px) {
+        .i-section-1_nav{
+            bottom: 22%;
+        }
+        #section1 {
+            background-size: 155vw;
+        }
+    }
+    @media (min-height:850px) and (max-height:900px) {
+        .i-section-1_nav{
+            bottom: 23%;
+        }
+        #section1 {
+            background-size: 155vw;
+        }
+    }
+    @media (min-height:900px) and (max-height:950px) {
+        .i-section-1_nav{
+            bottom: 25%;
+        }
+        #section1 {
+            background-size: 170vw;
+        }
+    }
+    @media (min-height:950px) and (max-height:1000px) {
+        .i-section-1_nav{
+            bottom: 27%;
+        }
+        #section1 {
+            background-size: 180vw;
+        }
+    }
+    @media (min-height:1000px) and (max-height:1050px) {
+        .i-section-1_nav{
+            bottom: 30%;
+        }
+        #section1 {
+            background-size: 190vw;
+        }
+    }
 }
 
 @media (min-width:1600px) and (max-width:1799px) {
+    .i-section-1_nav ul{
+        margin: 0 auto;
+        width: 700px;
+        position: relative;
+    }
 
+    .logo img {
+        width: 235px;
+    }
+
+    nav img {
+        width: 115px;
+    }
+
+    .section-1_line-website-development {
+        left: 158px;
+        top: 102px;
+    }
+
+    .section-1_line-about {
+        left: 382px;
+        top: 113px;
+    }
+
+    .section-1_line-promotion-sites {
+        left: 431px;
+        top: 178px;
+    }
+
+    .section-1_line-publication {
+        left: 439px;
+        top: 346px;
+    }
+
+    .section-1_line-contact {
+        left: 221px;
+        top: 347px;
+    }
+
+    .section-1_line-portfolio {
+        left: 107px;
+        top: 291px;
+    }
+
+    .section-1_link-website-development {
+        left: 21px;
+        top: -5px;
+    }
+
+    .section-1_link-about {
+        left: 422px;
+        top: -56px;
+    }
+
+    .section-1_link-promotion-sites {
+        left: 629px;
+        top: 95px;
+    }
+
+    .section-1_link-publication {
+        left: 487px;
+        top: 425px;
+    }
+
+    .section-1_link-contact {
+        left: 115px;
+        top: 436px;
+    }
+
+    .section-1_link-portfolio {
+        left: -32px;
+        top: 247px;
+    }
+
+    @media (min-height:600px) and (max-height:650px) {
+        .i-section-1_nav{
+            bottom: 10%;
+        }
+        #section1 {
+            background-size: 115vw;
+        }
+    }
+    @media (min-height:650px) and (max-height:700px) {
+        .i-section-1_nav{
+            bottom: 17%;
+        }
+        #section1 {
+            background-size: 125vw;
+        }
+    }
+    @media (min-height:700px) and (max-height:750px) {
+        .i-section-1_nav{
+            bottom: 19%;
+        }
+        #section1 {
+            background-size: 135vw;
+        }
+    }
+    @media (min-height:750px) and (max-height:800px) {
+        .i-section-1_nav{
+            bottom: 22%;
+        }
+        #section1 {
+            background-size: 145vw;
+        }
+    }
+    @media (min-height:800px) and (max-height:850px) {
+        .i-section-1_nav{
+            bottom: 22%;
+        }
+        #section1 {
+            background-size: 155vw;
+        }
+    }
+    @media (min-height:850px) and (max-height:900px) {
+        .i-section-1_nav{
+            bottom: 23%;
+        }
+        #section1 {
+            background-size: 155vw;
+        }
+    }
+    @media (min-height:900px) and (max-height:950px) {
+        .i-section-1_nav{
+            bottom: 25%;
+        }
+        #section1 {
+            background-size: 170vw;
+        }
+    }
+    @media (min-height:950px) and (max-height:1000px) {
+        .i-section-1_nav{
+            bottom: 27%;
+        }
+        #section1 {
+            background-size: 180vw;
+        }
+    }
+    @media (min-height:1000px) and (max-height:1050px) {
+        .i-section-1_nav{
+            bottom: 30%;
+        }
+        #section1 {
+            background-size: 190vw;
+        }
+    }
 }
 
 @media (min-width:1800px) and (max-width:2000px) {
+    .i-section-1_nav ul{
+        margin: 0 auto;
+        width: 700px;
+        position: relative;
+    }
 
+    .logo img {
+        width: 235px;
+    }
+
+    nav img {
+        width: 115px;
+    }
+
+    .section-1_line-website-development {
+        left: 158px;
+        top: 102px;
+    }
+
+    .section-1_line-about {
+        left: 382px;
+        top: 113px;
+    }
+
+    .section-1_line-promotion-sites {
+        left: 431px;
+        top: 178px;
+    }
+
+    .section-1_line-publication {
+        left: 439px;
+        top: 346px;
+    }
+
+    .section-1_line-contact {
+        left: 221px;
+        top: 347px;
+    }
+
+    .section-1_line-portfolio {
+        left: 107px;
+        top: 291px;
+    }
+
+    .section-1_link-website-development {
+        left: 21px;
+        top: -5px;
+    }
+
+    .section-1_link-about {
+        left: 422px;
+        top: -56px;
+    }
+
+    .section-1_link-promotion-sites {
+        left: 629px;
+        top: 95px;
+    }
+
+    .section-1_link-publication {
+        left: 487px;
+        top: 425px;
+    }
+
+    .section-1_link-contact {
+        left: 115px;
+        top: 436px;
+    }
+
+    .section-1_link-portfolio {
+        left: -32px;
+        top: 247px;
+    }
+
+    @media (min-height:600px) and (max-height:650px) {
+        .i-section-1_nav{
+            bottom: 10%;
+        }
+        #section1 {
+            background-size: 115vw;
+        }
+    }
+    @media (min-height:650px) and (max-height:700px) {
+        .i-section-1_nav{
+            bottom: 17%;
+        }
+        #section1 {
+            background-size: 125vw;
+        }
+    }
+    @media (min-height:700px) and (max-height:750px) {
+        .i-section-1_nav{
+            bottom: 19%;
+        }
+        #section1 {
+            background-size: 135vw;
+        }
+    }
+    @media (min-height:750px) and (max-height:800px) {
+        .i-section-1_nav{
+            bottom: 22%;
+        }
+        #section1 {
+            background-size: 145vw;
+        }
+    }
+    @media (min-height:800px) and (max-height:850px) {
+        .i-section-1_nav{
+            bottom: 22%;
+        }
+        #section1 {
+            background-size: 155vw;
+        }
+    }
+    @media (min-height:850px) and (max-height:900px) {
+        .i-section-1_nav{
+            bottom: 23%;
+        }
+        #section1 {
+            background-size: 155vw;
+        }
+    }
+    @media (min-height:900px) and (max-height:950px) {
+        .i-section-1_nav{
+            bottom: 25%;
+        }
+        #section1 {
+            background-size: 170vw;
+        }
+    }
+    @media (min-height:950px) and (max-height:1000px) {
+        .i-section-1_nav{
+            bottom: 27%;
+        }
+        #section1 {
+            background-size: 180vw;
+        }
+    }
+    @media (min-height:1000px) and (max-height:1050px) {
+        .i-section-1_nav{
+            bottom: 30%;
+        }
+        #section1 {
+            background-size: 190vw;
+        }
+    }
 }
+
+
+
 
